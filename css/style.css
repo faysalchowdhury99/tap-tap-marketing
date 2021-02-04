@@ -639,8 +639,7 @@ footer-copyright {
   font-size: 15px;
   border: none;
   outline: none;
-  background: transparent linear-gradient(247deg, #ed2424 0%, #4d60ab 100%) 0%
-    0% no-repeat padding-box;
+   background: #4d60ab;
   color: white;
   cursor: pointer;
   padding: 8px 14px;
